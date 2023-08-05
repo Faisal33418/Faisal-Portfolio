@@ -1,2 +1,13 @@
+![react](https://github.com/Faisal33418/Faisal-Portfolio/assets/141315479/6f23f2b7-3c73-424e-a79b-67da07674e0f)
+![Uploading phone.png…]()
+![Uploading node.png…]()
+![js](https://github.com/Faisal33418/Faisal-Portfolio/assets/141315479/a4155d47-1e2f-4e77-80b6-09abeeef5a32)
+![Uploading java (2).png…]()
+![Uploading html5.png…]()
+![Uploading home.png…]()
+![Uploading flash.png…]()
+![Uploading CSS3.png…]()![Uploading envelope.png…]()
+![checkmark--outline](https://github.com/Faisal33418/Faisal-Portfolio/assets/141315479/80a4b22b-63da-4aa2-b56d-1aacb43d4bdf)
+![Uploading bullet.png…]()
+![about me](https://github.com/Faisal33418/Faisal-Portfolio/assets/141315479/18ca248c-4e01-4c88-93d8-0437f8f861db)
 This directory has all the images used in the final project
-
